@@ -4,7 +4,7 @@ import hljs from 'highlight.js';
 import hljsDiff from 'highlightjs-code-diff/dist/index';
 import { gfmHeadingId } from 'marked-gfm-heading-id';
 
-export const githubHome = 'https://github.com/thenorthsolution/reciple';
+export const githubHome = 'https://github.com/reciplejs/reciple';
 export const npmHome = 'https://npmjs.com/package/reciple';
 
 export const navLinks: { name: string; href: string; blank?: boolean; }[] = [
